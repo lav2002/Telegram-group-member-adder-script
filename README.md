@@ -10,7 +10,7 @@
   Telegram Scraper Adder
 </p>
 <p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
+  wtf, atleast just fuking ⭐ star ⭐ it
 </p>
 
 ---
@@ -47,9 +47,9 @@
 
 
 <p align="center">
-  Follow Me On
+  ⭐⭐⭐Follow Me On Instagram⭐⭐⭐
 </p>
 <p align="center">
   <a href="https://www.instagram.com/enamored.l/">
-    <img src="https://png.pngtree.com/png-vector/20220718/ourmid/pngtree-follow-button-social-media-icon-gradient-png-image_6005997.png" width="40" height="40">
+    <img src="https://png.pngtree.com/png-vector/20220718/ourmid/pngtree-follow-button-social-media-icon-gradient-png-image_6005997.png" width="100" height="100">
 </p>
